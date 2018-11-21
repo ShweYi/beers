@@ -98,8 +98,8 @@ extension ViewController : UICollectionViewDelegate, UICollectionViewDelegateFlo
     }
     
     func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {
-        let width = (self.view.frame.width/2 - 15)
-        return CGSize(width: width, height: width * 2.0)
+        let width = (self.view.frame.width/2 - 8)
+        return CGSize(width: width, height: width * 1.7)
     }
 }
 

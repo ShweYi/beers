@@ -18,6 +18,7 @@
 		8C39393A21A08A3B00159BE3 /* PunkVO.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C39393521A08A3B00159BE3 /* PunkVO.swift */; };
 		8C76136021A3154C006251D7 /* IngredientTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C76135E21A3154C006251D7 /* IngredientTableViewCell.swift */; };
 		8C76136121A3154C006251D7 /* IngredientTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8C76135F21A3154C006251D7 /* IngredientTableViewCell.xib */; };
+		8CA70FBF21A5B64A00D7D745 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CA70FBE21A5B64A00D7D745 /* CardView.swift */; };
 		8CBF6C3621A04E7800A1B6F0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CBF6C3521A04E7800A1B6F0 /* AppDelegate.swift */; };
 		8CBF6C3821A04E7800A1B6F0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CBF6C3721A04E7800A1B6F0 /* ViewController.swift */; };
 		8CBF6C3B21A04E7800A1B6F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CBF6C3921A04E7800A1B6F0 /* Main.storyboard */; };
@@ -41,6 +42,7 @@
 		8C39393521A08A3B00159BE3 /* PunkVO.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PunkVO.swift; sourceTree = "<group>"; };
 		8C76135E21A3154C006251D7 /* IngredientTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IngredientTableViewCell.swift; sourceTree = "<group>"; };
 		8C76135F21A3154C006251D7 /* IngredientTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = IngredientTableViewCell.xib; sourceTree = "<group>"; };
+		8CA70FBE21A5B64A00D7D745 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		8CBF6C3221A04E7800A1B6F0 /* Beers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Beers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CBF6C3521A04E7800A1B6F0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8CBF6C3721A04E7800A1B6F0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -131,6 +133,7 @@
 				8CBF6C3E21A04E7A00A1B6F0 /* LaunchScreen.storyboard */,
 				8CBF6C4121A04E7A00A1B6F0 /* Info.plist */,
 				8CBF6C4E21A056F500A1B6F0 /* CellRegisterUtil.swift */,
+				8CA70FBE21A5B64A00D7D745 /* CardView.swift */,
 			);
 			path = Beers;
 			sourceTree = "<group>";
@@ -287,6 +290,7 @@
 				8C39393921A08A3B00159BE3 /* malt.swift in Sources */,
 				8C76136021A3154C006251D7 /* IngredientTableViewCell.swift in Sources */,
 				8CE613B521A3007100079153 /* Amount.swift in Sources */,
+				8CA70FBF21A5B64A00D7D745 /* CardView.swift in Sources */,
 				8C39392521A061E200159BE3 /* BeerDetailViewController.swift in Sources */,
 				8C39393821A08A3B00159BE3 /* hops.swift in Sources */,
 				8CBF6C4F21A056F500A1B6F0 /* CellRegisterUtil.swift in Sources */,
